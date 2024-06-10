@@ -70,5 +70,3 @@ http://mieti.eng.uminho.pt/
 App para calcular média do curso(Autor: Rúben Sousa)
 https://play.google.com/store/apps/details?id=com.github.rubensousa.mieti&hl=en_US
 
-Link Overleaf para dissertação:
-https://pt.overleaf.com/read/kqxzfcxtpwch#c0a967
