@@ -7,19 +7,17 @@ Caso queiram ajudar na atualização tentai entrar em contacto.
 
 ----
 
-
-## METI
 ### 1º ANO
 *1º SEMESTRE*
+- Comunicações Digitais
+- Emulação e Simulação de Redes de Telecomunicações
+- Gestão e Virtualização de Redes
 - Opção 1 e 2:
   - Aprendizagem Automática em Sistemas Empresariais
   - Computação em Ambiente Móvel
   - Encaminhamento de Tráfego
   - Redes Sem Fios para IoT (opcional que escolhi)
-  - Inteligência Articial (opcional que escolhi)
-- Comunicações Digitais
-- Emulação e Simulação de Redes de Telecomunicações
-- Gestão e Virtualização de Redes<br />
+  - Inteligência Articial (opcional que escolhi)<br />
 
 *2º SEMESTRE*
 - Projeto Integrador em Telecomunicações e Informática
