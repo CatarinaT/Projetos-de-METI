@@ -6,6 +6,7 @@ Caso queiram ajudar na atualização entrem em contacto.
 ***$${\color{red}Há ficheiros/fotos que me foram enviados para acrescentar no repositório.}$$***
 
 
+$${\color{red}Welcome \space \color{lightblue}To \space \color{orange}Stackoverflow}$$
 
 ----
 
