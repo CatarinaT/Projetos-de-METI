@@ -3,10 +3,10 @@ Este é o meu repositório do **Mestrado** do Curso de **Engenharia de Telecomun
 
 Caso queiram ajudar na atualização entrem em contacto.
 
-$\color{red}{\textsf{Há ficheiros/fotos que me foram enviados para acrescentar no Repositório}}$
-
 ----
-**$\color{red}{\textsf{Última Atualização:}}$** 11/06/2024
+**$\color{red}{\textsf{NOTAS IMPORTANTES}}$**
+- **Última Atualização:** 11/06/2024
+- $\color{red}{\textsf{Há ficheiros/fotos que me foram enviados para acrescentar no Repositório}}$
 
 ----
 
