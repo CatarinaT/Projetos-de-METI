@@ -1,7 +1,7 @@
 # METI
 Este é o meu repositório do **Mestrado** do Curso de **Engenharia de Telecomunicações e Informática** da Universidade do Minho.<br />
 
-Caso queiram ajudar na atualização tentai entrar em contacto.
+Caso queiram ajudar na atualização entrem em contacto. Há ficheiros/fotos que me foram enviados para acrescentar no repositório.
 
 
 
