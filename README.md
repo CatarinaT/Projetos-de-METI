@@ -5,6 +5,7 @@ Caso queiram ajudar na atualização entrem em contacto.
 
 <span style="color:red;">Há ficheiros/fotos que me foram enviados para acrescentar no Repositório</span>
 
+<code style="color : red">Há ficheiros/fotos que me foram enviados para acrescentar no Repositório</code>
 
 ----
 
