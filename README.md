@@ -11,7 +11,7 @@ $\color{red}{\textsf{Há ficheiros/fotos que me foram enviados para acrescentar 
 ----
 
 ### 1º ANO
-*1º SEMESTRE*
+#### 1º SEMESTRE
 - Comunicações Digitais
 - Emulação e Simulação de Redes de Telecomunicações
 - Gestão e Virtualização de Redes
