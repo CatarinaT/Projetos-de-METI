@@ -8,5 +8,5 @@
 - **Demo A:** 18.5
 - **Demo B:** 18.5
 - **Demo C:** 14.6
-- **Relatório Final:** 13
+- **Relatório Final (RF):** 13
 - **Nota final:** 16
