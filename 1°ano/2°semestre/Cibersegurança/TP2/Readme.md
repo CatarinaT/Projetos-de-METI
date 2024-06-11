@@ -1,7 +1,7 @@
 # Enunciado
 Assuming a university context, you are required to construct the lattice of security labels for the security levels P (public), C (confidential) and SC (strictly confidential), and categories AS (Academic Services) and ScS (Scientific Services). The exercise is composed of two parts:
 1. Build the lattice, and assuming:
-   * the fundamental BLP model properties <br{}>
+   (a) the fundamental BLP model properties <br{}>
    * teachers are classified at level (label) (C, {AS, ScS}), while students are classified at level (C, {AS})
    * the usual Access Control model implementation (multilevel) on computer systems, ascertain if it is possible to prevent a student from cheating with a teacher.
 2. Elaborate about a possible automatic deployment process of such a model in a typical TIC infrastructure.
