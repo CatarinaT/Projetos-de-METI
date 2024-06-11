@@ -6,7 +6,7 @@ Caso queiram ajudar na atualização entrem em contacto.
 $\color{red}{\textsf{Há ficheiros/fotos que me foram enviados para acrescentar no Repositório}}$
 
 ----
-**Última Atualização:** 11/06/2024
+**$\color{red}{\textsf{Última Atualização:}}$** 11/06/2024
 
 ----
 
