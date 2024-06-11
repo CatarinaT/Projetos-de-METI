@@ -3,7 +3,7 @@ Este é o meu repositório do **Mestrado** do Curso de **Engenharia de Telecomun
 
 Caso queiram ajudar na atualização entrem em contacto.
 
-$${\color{red}Há \color{red}ficheiros\color{red}/\color{red}fotos \color{red}que \color{red}me \color{red}foram \color{red}enviados \color{red}para \color{red}acrescentar \color{red}no \color{red}repositório\color{red}.}$$
+$${\color{red}Há \space \color{red}ficheiros\color{red}/\color{red}fotos \space\color{red}que \space\color{red}me \space\color{red}foram\space \color{red}enviados\space \color{red}para\space \color{red}acrescentar \space\color{red}no \space\color{red}repositório\color{red}.}$$
 
 
 $${\color{red}Welcome \space \color{lightblue}To \space \color{orange}Stackoverflow}$$
