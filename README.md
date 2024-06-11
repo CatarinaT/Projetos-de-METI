@@ -3,7 +3,7 @@ Bem-vindx ao meu repositório do **Mestrado em Engenharia de Telecomunicações 
 
 Para qualquer dúvida ou sugestão de melhoria, entra em contato. A tua colaboração é muito bem-vinda!
 
-Este repositório será constantemente atualizado com novos materiais e informações relevantes. Mantêm-te atento para as próximas atualizações!
+Este repositório será constantemente atualizado com novos materiais e informações relevantes.
 
 ## $\color{red}{\textsf{NOTAS IMPORTANTES}}$
 - **Última Atualização:** 11/06/2024
