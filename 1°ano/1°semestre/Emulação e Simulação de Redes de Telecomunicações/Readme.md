@@ -5,8 +5,8 @@
 - Leonardo Martins
 
 # Notas
-- **Demo A:** 18.5
-- **Demo B:** 18.5
-- **Demo C:** 14.6
+- **Demo A (REA):** 18.5
+- **Demo B (REB):** 18.5
+- **Demo C (REC):** 14.6
 - **Relatório Final (RF):** 13
 - **Nota final:** 16
