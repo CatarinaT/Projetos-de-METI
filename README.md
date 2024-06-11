@@ -1,4 +1,4 @@
-# METI
+# MESTRADO EM ENGENHARIA DE TELECOMUNICAÇÕES E INFORMÁTICA
 Este é o meu repositório do **Mestrado** do Curso de **Engenharia de Telecomunicações e Informática** da Universidade do Minho.<br />
 
 Caso queiram ajudar na atualização entrem em contacto.
