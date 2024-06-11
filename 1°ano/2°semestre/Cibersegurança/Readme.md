@@ -1,4 +1,4 @@
-***_$\color{red}{\textsf{NOTA:}}$_*** Caso queriam a correção dos TPs, mandem mensagem.
+***$\color{red}{\textsf{NOTA:}}$*** Caso queriam a correção dos TPs, mandem mensagem.
 
 # Autores
 - Catarina Pereira
