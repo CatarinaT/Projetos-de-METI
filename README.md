@@ -1,5 +1,9 @@
 # MESTRADO EM ENGENHARIA DE TELECOMUNICAÇÕES E INFORMÁTICA
-Bem-vindx ao repositório do **Mestrado em Engenharia de Telecomunicações e Informática** da Universidade do Minho. Este espaço é dedicado ao armazenamento e compartilhamento de materiais relacionados ao curso. Sente-te à vontade para contribuir e colaborar enviando-me uma mensagem!
+Bem-vindx ao repositório do **Mestrado em Engenharia de Telecomunicações e Informática** da Universidade do Minho. Este espaço é dedicado ao armazenamento e compartilhamento de materiais relacionados ao curso.
+
+Para qualquer dúvida ou sugestão de melhoria, entra em contato. A tua colaboração é muito bem-vinda!
+
+Este repositório será constantemente atualizado com novos materiais e informações relevantes. Mantêm-te atento para as próximas atualizações!
 
 ## $\color{red}{\textsf{NOTAS IMPORTANTES}}$
 - **Última Atualização:** 11/06/2024
@@ -51,10 +55,4 @@ Bem-vindx ao repositório do **Mestrado em Engenharia de Telecomunicações e In
 - **Website do MIETI:** [MIETI UMinho](http://mieti.eng.uminho.pt/)
 - **App para Calcular Média do Curso (Autor: Rúben Sousa):** [Google Play](https://play.google.com/store/apps/details?id=com.github.rubensousa.mieti&hl=en_US)
 
----
 
-Para qualquer dúvida ou sugestão de melhoria, entre em contato. Sua colaboração é muito bem-vinda!
-
----
-
-Este repositório será constantemente atualizado com novos materiais e informações relevantes. Mantenha-se atento para as próximas atualizações!
