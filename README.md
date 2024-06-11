@@ -3,7 +3,7 @@ Este é o meu repositório do **Mestrado** do Curso de **Engenharia de Telecomun
 
 Caso queiram ajudar na atualização entrem em contacto.
 
-<p style="color:red;">Há ficheiros/fotos que me foram enviados para acrescentar no Repositório</p>
+<span style="color:red;">Há ficheiros/fotos que me foram enviados para acrescentar no Repositório</span>
 
 
 ----
