@@ -22,7 +22,7 @@ $\color{red}{\textsf{Há ficheiros/fotos que me foram enviados para acrescentar 
   - Redes Sem Fios para IoT (opcional que escolhi)
   - Inteligência Articial (opcional que escolhi)<br />
 
-*2º SEMESTRE*
+#### 2º SEMESTRE
 - Projeto Integrador em Telecomunicações e Informática
 - Redes de Acesso e Núcleo
 - Serviços de Rede e Aplicações Multimédia
@@ -35,10 +35,10 @@ $\color{red}{\textsf{Há ficheiros/fotos que me foram enviados para acrescentar 
   - Tópicos de Otimização de Redes<br />
  
 ### 2º ANO
-*Anual*
+#### Anual
 - Dissertação<br />
 
-*1º SEMESTRE*
+#### 1º SEMESTRE
 - Formação Empresarial e Empreendedorismo
 - Gestão de Projetos de Tecnologias de Informação
 - Seminários de Telecomunicações e Informática
