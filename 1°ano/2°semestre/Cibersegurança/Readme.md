@@ -1,4 +1,4 @@
-Caso queriam a correção do professor mandem mensagem.
+Caso queriam a correção dos TPs, mandem mensagem.
 
 # Autores
 - Catarina Pereira
