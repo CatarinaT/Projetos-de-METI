@@ -18,10 +18,10 @@ Este repositório contém os trabalhos desenvolvidos para a Unidade Curricular *
 #### Módulo de Gestão de Redes (TP1)
 - **Descrição:** Foco nas práticas e teorias relacionadas à gestão eficiente de redes, incluindo monitoramento, configuração e manutenção.
 - **Conteúdos:** Ferramentas de gestão de redes, protocolos de gestão, estudos de caso e implementação prática.
-- **Enunciado:** ""
+- **Enunciado:** [TP1]([https://play.google.com/store/apps/details?id=com.github.rubensousa.mieti&hl=en_US](https://github.com/CatarinaT/METI/blob/main/1°ano/1°semestre/Gestão%20e%20Virtualização%20de%20Redes/GR-TP1-2023-2024.pdf))
   
 #### Módulo de Virtualização de Redes (TP2)
 - **Descrição:** Abordagem das técnicas de virtualização aplicadas a redes, permitindo a criação de redes virtuais e a otimização de recursos físicos.
 - **Conteúdos:** Tecnologias de virtualização, software de virtualização de redes, exemplos práticos e implementações.
-- **Enunciado:** ""
+- **Enunciado:** [TP2]([https://play.google.com/store/apps/details?id=com.github.rubensousa.mieti&hl=en_US](https://github.com/CatarinaT/METI/blob/main/1°ano/1°semestre/Gestão%20e%20Virtualização%20de%20Redes/GR-TP1-2023-2024.pdf))
 
