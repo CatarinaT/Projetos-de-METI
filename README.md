@@ -47,7 +47,7 @@ Este repositório será constantemente atualizado com novos materiais e informa�
 ## Links Úteis
 - **Repositório do MIEI:** [Google Drive](https://drive.google.com/drive/folders/1tBpWJmF0gvXJuGDTxpHNRdjJGYIjbHZZ)
 - **Discord do MIEI:** [Entrar no Discord](https://discord.gg/m3kVwYM)
-- **Discord do LETI/METI:** [Entrar no Discord](https://discord.gg/R3gYuVa7QW) | [Entrar no Discord](https://discord.gg/Qv4wxwB)
+- **Discord do ETI (Eng. de Telecomunicações e Informática):** [Entrar no Discord](https://discord.gg/R3gYuVa7QW) | [Entrar no Discord](https://discord.gg/Qv4wxwB)
 - **Resolução de Exercícios:** [Slader](https://www.slader.com)
 - **Repositório da Biblioteca:** [RepositóriUM](https://repositorium.sdum.uminho.pt/)
 - **Localização das Salas:** [Where is UMinho](https://whereis.uminho.pt/)
