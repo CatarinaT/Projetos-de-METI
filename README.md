@@ -7,7 +7,7 @@ Este repositório será constantemente atualizado com novos materiais e informa�
 
 ## $\color{red}{\textsf{NOTAS IMPORTANTES}}$
 - **Última Atualização:** 11/06/2024
-- Este repositório contém arquivos e fotos enviados para atualização.
+- Este repositório contém arquivos e/ou fotos enviados por outras pessoas para atualização.
 
 ## Estrutura do Curso
 
@@ -54,5 +54,6 @@ Este repositório será constantemente atualizado com novos materiais e informa�
 - **Reservas de Salas da Biblioteca:** [Sistema de Reservas](https://reservas.sdum.uminho.pt/)
 - **Website do MIETI:** [MIETI UMinho](http://mieti.eng.uminho.pt/)
 - **App para Calcular Média do Curso (Autor: Rúben Sousa):** [Google Play](https://play.google.com/store/apps/details?id=com.github.rubensousa.mieti&hl=en_US)
+- **LaTex de Dissertação:** Contacte-me para obter o link de visualização do código
 
 
