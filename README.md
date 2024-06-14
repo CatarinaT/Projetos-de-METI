@@ -1,7 +1,7 @@
 # MESTRADO EM ENGENHARIA DE TELECOMUNICAÇÕES E INFORMÁTICA
 Bem-vindX ao meu repositório do **Mestrado em Engenharia de Telecomunicações e Informática** da Universidade do Minho. Este espaço é dedicado ao armazenamento e compartilhamento de materiais relacionados ao curso.
 
-Para qualquer dúvida ou sugestão de melhoria, entra em contato. A tua colaboração é muito bem-vinda!
+Para qualquer dúvida ou sugestão de melhoria, entra em contato. A tua colaboração é bem-vinda!
 
 Este repositório será constantemente atualizado com novos materiais e informações relevantes.
 
