@@ -1,39 +1,36 @@
 # MESTRADO EM ENGENHARIA DE TELECOMUNICAÇÕES E INFORMÁTICA
 
-Bem-vindX ao meu repositório do **Mestrado em Engenharia de Telecomunicações e Informática** da Universidade do Minho. Este espaço é dedicado ao armazenamento e compartilhamento de materiais relacionados ao curso.
+Bem-vindX ao meu repositório do **Mestrado em Engenharia de Telecomunicações e Informática** da Universidade do Minho. Este espaço é dedicado ao armazenamento e compartilhamento de projetos relacionados ao curso.
 
 Para qualquer dúvida ou sugestão de melhoria, entra em contato. A tua colaboração é bem-vinda!
 
-Este repositório será constantemente atualizado com novos materiais e informações relevantes.
-
 ## $\color{red}{\textsf{NOTAS IMPORTANTES}}$
-- **Última Atualização:** 11/06/2024
-- Este repositório contém arquivos e/ou fotos enviados por outras pessoas para atualização.
+- **Última Atualização:** 19/05/2025
 
 ## Estrutura do Curso
 
 ### 1º Ano
 #### 1º Semestre
 - **Comunicações Digitais**
-- **Emulação e Simulação de Redes de Telecomunicações**
-- **Gestão e Virtualização de Redes**
+- **Emulação e Simulação de Redes de Telecomunicações** (c\projeto)
+- **Gestão e Virtualização de Redes** (c\projeto)
 - **Opções (escolher 2):**
   - Aprendizagem Automática em Sistemas Empresariais
   - Computação em Ambiente Móvel
   - Encaminhamento de Tráfego
   - Redes Sem Fios para IoT *(escolhido)*
-  - Inteligência Artificial *(escolhido)*
+  - Inteligência Artificial *(escolhido)* (c\projeto)
 
 #### 2º Semestre
-- **Projeto Integrador em Telecomunicações e Informática**
-- **Redes de Acesso e Núcleo**
-- **Serviços de Rede e Aplicações Multimédia**
+- **Projeto Integrador em Telecomunicações e Informática** (c\projeto)
+- **Redes de Acesso e Núcleo** (c\projeto)
+- **Serviços de Rede e Aplicações Multimédia** (c\projeto)
 - **Opções (escolher 2):**
-  - Cibersegurança *(escolhido)*
+  - Cibersegurança *(escolhido)* (c\projeto)
   - Eletrónica de Radiofrequência
   - Ótica e Lasers
   - Recuperação de Informação
-  - Redes Veiculares *(escolhido)*
+  - Redes Veiculares *(escolhido)* (c\projeto)
   - Tópicos de Otimização de Redes
 
 ### 2º Ano
@@ -42,7 +39,7 @@ Este repositório será constantemente atualizado com novos materiais e informa�
 
 #### 1º Semestre
 - **Formação Empresarial e Empreendedorismo**
-- **Gestão de Projetos de Tecnologias de Informação**
+- **Gestão de Projetos de Tecnologias de Informação** (c\projeto)
 - **Seminários de Telecomunicações e Informática**
 
 ## Links Úteis
