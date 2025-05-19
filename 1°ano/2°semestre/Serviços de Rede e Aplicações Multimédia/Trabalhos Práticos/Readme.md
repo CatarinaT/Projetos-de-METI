@@ -1,9 +1,11 @@
-# Autores
-- Catarina Pereira
-- Inês Neves
-- Leonardo Martins
+## 👥 Equipa do Projecto
 
-# Notas
-- **TP1:** 17,8
-- **TP2:** 16,5
+- **Catarina Pereira** — PG53733
+- **Inês Neves** — PG53864 
+- **Leonardo Martins** - PG53996
+
+## 🏁 Nota Final dos Projectos
+
+> ⭐ **TP1: 17,8 valores (escala de 0 a 20)**
+> ⭐ **TP2: 16,5 valores (escala de 0 a 20)**  
 
