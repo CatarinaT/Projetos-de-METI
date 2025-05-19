@@ -43,14 +43,14 @@ Para qualquer dúvida ou sugestão de melhoria, entra em contato. A tua colabora
 - **Seminários de Telecomunicações e Informática**
 
 ## Links Úteis
-- **Repositório do MIEI (Eng. Informática):** [Google Drive](https://drive.google.com/drive/folders/1tBpWJmF0gvXJuGDTxpHNRdjJGYIjbHZZ)
-- **Discord do MIEI (Eng. Informática):** [Entrar no Discord](https://discord.gg/m3kVwYM)
-- **Discord do ETI (Eng. de Telecomunicações e Informática):** [Entrar no Discord](https://discord.gg/R3gYuVa7QW) | [Entrar no Discord](https://discord.gg/Qv4wxwB)
+- **Repositório do (L/Mi)EI (Eng. Informática):** [Google Drive](https://drive.google.com/drive/folders/1tBpWJmF0gvXJuGDTxpHNRdjJGYIjbHZZ)
+- **Discord do (L/Mi)EI (Eng. Informática):** [Entrar no Discord](https://discord.gg/m3kVwYM)
+- **Discord do (L/Mi)ETI (Eng. de Telecomunicações e Informática):** [Entrar no Discord](https://discord.gg/R3gYuVa7QW) | [Entrar no Discord](https://discord.gg/Qv4wxwB)
 - **Resolução de Exercícios:** [Slader](https://www.slader.com)
 - **Repositório da Biblioteca:** [RepositóriUM](https://repositorium.sdum.uminho.pt/)
 - **Localização das Salas:** [Where is UMinho](https://whereis.uminho.pt/)
 - **Reservas de Salas da Biblioteca:** [Sistema de Reservas](https://reservas.sdum.uminho.pt/)
-- **Website do MIETI:** [MIETI UMinho](http://mieti.eng.uminho.pt/)
+- **Website do (L/Mi)ETI:** [(L/Mi)ETI UMinho](http://mieti.eng.uminho.pt/)
 - **App para Calcular Média do Curso (Autor: Rúben Sousa):** [Google Play](https://play.google.com/store/apps/details?id=com.github.rubensousa.mieti&hl=en_US)
 - **LaTex de Dissertação:** Contacta-me para obter o link de visualização do código
 
