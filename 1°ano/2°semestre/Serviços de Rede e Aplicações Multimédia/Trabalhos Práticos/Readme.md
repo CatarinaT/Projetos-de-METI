@@ -4,6 +4,6 @@
 - Leonardo Martins
 
 # Notas
-- **TP1:**
-- **TP2:**
+- **TP1:** 17,8
+- **TP2:** 16,5
 
