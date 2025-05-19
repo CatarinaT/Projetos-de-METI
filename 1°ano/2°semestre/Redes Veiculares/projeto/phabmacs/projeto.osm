@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='MOSAIC OSM-Export'>
+	<node id="103222485" lat="40.993189" lon="-74.043198" version="1"/>
+	<node id="103222487" lat="40.991605" lon="-74.044094" version="1"/>
+	<node id="103236776" lat="40.992718" lon="-74.045082" version="1"/>
+	<node id="103222486" lat="40.992283" lon="-74.043710" version="1"/>
+	<node id="103227786" lat="40.992772" lon="-74.041869" version="1"/>
+	<node id="103236778" lat="40.991281" lon="-74.040545" version="1"/>
+	<node id="103237259" lat="40.991182" lon="-74.042804" version="1"/>
+	<node id="103236777" lat="40.991868" lon="-74.042401" version="1"/>
+	<way id="11587619" version="1">
+		<nd ref="103222487" version="1"/>
+		<nd ref="103237259" version="1"/>
+	</way>
+	<way id="11580277" version="1">
+		<nd ref="103237259" version="1"/>
+		<nd ref="103236777" version="1"/>
+		<nd ref="103227786" version="1"/>
+	</way>
+	<way id="11578021" version="1">
+		<nd ref="103222485" version="1"/>
+		<nd ref="103222486" version="1"/>
+		<nd ref="103222487" version="1"/>
+	</way>
+	<way id="11578870" version="1">
+		<nd ref="103227786" version="1"/>
+		<nd ref="103222485" version="1"/>
+	</way>
+	<way id="11580205" version="1">
+		<nd ref="103236776" version="1"/>
+		<nd ref="103222486" version="1"/>
+		<nd ref="103236777" version="1"/>
+		<nd ref="103236778" version="1"/>
+	</way>
+</osm>
