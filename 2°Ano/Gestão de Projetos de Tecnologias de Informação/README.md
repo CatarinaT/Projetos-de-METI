@@ -33,6 +33,12 @@ Esta separação facilita a rastreabilidade e evita a duplicação de versões, 
 - **Inês Neves** — Analista Funcional, Porto, Portugal 
 - **Leonardo Martins** — Engenheiro de Software, Aveiro, Portugal
 - **Rodrigo Rocha** — Especialista em Testes, Santander, Espanha
+
+## 🏁 Nota Final do Projecto
+
+> ⭐ **Nota final atribuída: 19 valores (escala de 0 a 20)**  
+> O projecto foi avaliado com base na qualidade da documentação, execução técnica, trabalho em equipa e cumprimento dos objectivos definidos.
+
 ---
 
 ⌨️ Para sugestões, dúvidas ou contributos, sinta-se à vontade para abrir uma _issue_ ou _pull request_.
