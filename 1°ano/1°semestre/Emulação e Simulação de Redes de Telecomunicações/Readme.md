@@ -1,36 +1,36 @@
-# Emulação e Simulação de Redes de Telecomunicações (2023/2024)
+# 📡 Emulação e Simulação de Redes de Telecomunicações (2023/2024)
 
-Bem-vindo(a) ao repositório do projeto da Unidade Curricular **Emulação e Simulação de Redes de Telecomunicações** realizado durante o ano letivo de 2023/2024.
+Este repositório reúne os artefactos e entregas realizadas no âmbito da unidade curricular **Emulação e Simulação de Redes de Telecomunicações**, ao longo do ano letivo de 2023/2024.
 
-## Autores
-- Catarina Pereira
-- Denis-Alexandru Antonescu
-- Inês Neves
-- Leonardo Martins
+## 🎯 Objetivos do Projeto
 
-## Notas
-- **Demo A (REA):** 18.5/20
-- **Demo B (REB):** 18.5/20
-- **Demo C (REC):** 14.6/20
-- **Relatório Final (RF):** 13/20
-- **Nota final:** 16/20
+- Aplicar técnicas de emulação e simulação em redes de telecomunicações.
+- Avaliar o desempenho de redes em múltiplos cenários simulados.
+- Desenvolver competências práticas com ferramentas específicas da área.
+- Analisar, interpretar e validar os dados obtidos a partir das simulações.
 
-## Descrição do Projeto
+## 📄 Entregas e Avaliações
 
-### Conteúdos
-- **Demo A (REA):** Demonstração da Fase A.
-- **Demo B (REB):** Demonstração da Fase B.
-- **Demo C (REC):** Demonstração da Fase C.
-- **AP:** Apresentação final em Powerpoint.
-- **Relatório Final (RF):** Documento detalhando a metodologia, resultados e análise do trabalho realizado ao longo do semestre.
+| Entrega                | Descrição                                | Nota     |
+|------------------------|--------------------------------------------|----------|
+| **Demo A (REA)**       | Demonstração da Fase A                     | 18,5 / 20 |
+| **Demo B (REB)**       | Demonstração da Fase B                     | 18,5 / 20 |
+| **Demo C (REC)**       | Demonstração da Fase C                     | 14,6 / 20 |
+| **Relatório Final (RF)**| Documento técnico e reflexivo             | 13 / 20  |
+| **Nota Final**          | Média ponderada das entregas              | **16 / 20** |
 
-### Objetivos
-- Compreender e aplicar técnicas de emulação e simulação de redes.
-- Avaliar o desempenho de redes em diferentes cenários.
-- Desenvolver habilidades práticas em ferramentas de emulação e simulação.
-- Analisar e interpretar os resultados obtidos das simulações.
+## 👥 Equipa do Projeto
 
+- **Catarina Pereira** - PG53733, Braga, Portugal
+- **Denis-Alexandru Antonescu** - E11021, Dobreta, Roménia
+- **Inês Neves** - PG53864, Porto, Portugal
+- **Leonardo Martins** - PG53996, Aveiro, Portugal
 
+## 📬 Contato
 
-## Contato
-Para dúvidas ou sugestões, por favor entre em contato com um dos autores.
+Para dúvidas, sugestões ou contribuições, entre em contato com qualquer um dos autores listados acima.  
+Também pode abrir uma *issue* ou enviar um *pull request* diretamente neste repositório.
+
+---
+
+⌨️ Obrigado por visitar o nosso projeto!
