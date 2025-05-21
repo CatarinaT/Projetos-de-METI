@@ -1,5 +1,4 @@
-# 🔍 Trabalho de Grupo — Inteligência Artificial para as Telecomunicações (2023/2024)
-
+# 🔍 Trabalho de Grupo
 **Projeto:** *Resolução de Problemas com Algoritmos de Busca*  
 
 Este projeto foca-se na aplicação de **algoritmos de busca** para resolução de problemas reais, com ênfase na **sustentabilidade logística**. O cenário proposto envolve a empresa **Xpress Delta**, que procura otimizar as suas entregas utilizando os meios mais ecológicos disponíveis.
