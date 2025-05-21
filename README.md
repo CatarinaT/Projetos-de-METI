@@ -63,7 +63,7 @@ Este espaço é pensado para:
 | ------------------------------------------------ | ------------------------------------------------------------------------------------------------- |
 | 📂 Repositório do (L/Mi)EI (Eng. Informática)    | [Google Drive](https://drive.google.com/drive/folders/1tBpWJmF0gvXJuGDTxpHNRdjJGYIjbHZZ)          |
 | 💬 Discord (L/Mi)EI (Eng. Informática)            | [Entrar no Discord](https://discord.gg/m3kVwYM)                                                  |
-| 💬 Discord (L/Mi)ETI (Eng. Telecomunicações)      | [Entrar no Discord]([https://discord.gg/R3gYuVa7QW](https://discord.gg/ptBXEN745H) / [Alternativo](https://discord.gg/Qv4wxwB)    |
+| 💬 Discord (L/Mi)ETI (Eng. Telecomunicações)      | [Entrar no Discord](https://discord.gg/ptBXEN745H) / [Alternativo](https://discord.gg/Qv4wxwB)    |
 | 📖 Resolução de Exercícios                         | [Slader](https://www.slader.com)                                                                 |
 | 📚 RepositóriUM - Biblioteca UMinho               | [RepositóriUM](https://repositorium.sdum.uminho.pt/)                                             |
 | 🗺️ Localização das Salas UMinho                    | [Where is UMinho](https://whereis.uminho.pt/)                                                   |
