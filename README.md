@@ -57,7 +57,7 @@ Bem-vindX ao repositório oficial do meu **Mestrado em Engenharia de Telecomunic
 
 | Unidade Curricular                      | Repositório / Projeto                         | Nota Final (se aplicável)               |
 |---------------------------------------|-----------------------------------------------|----------------------------------------|
-| Emulação e Simulação de Redes          | [Ver Projeto](./1°ano/1°semestre/Emulação e Simulação de Redes de Telecomunicações)            | -                                      |
+| Emulação e Simulação de Redes          | [Ver Projeto](./1ºano/1ºsemestre/Emulação%20e%20Simulação%20de%20Redes%20de%20Telecomunicações)            | -                                      |
 | Gestão e Virtualização de Redes        | [Ver Projeto](./GestaoVirtualizacao)          | -                                      |
 | Inteligência Artificial                | [Ver Projeto](./InteligenciaArtificial)       | -                                      |
 | Projeto Integrador                     | [Ver Projeto](./ProjetoIntegrador)             | -                                      |
