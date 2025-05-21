@@ -1,4 +1,4 @@
-# Redes de Acesso e Núcleo — Projeto e Aprendizagens
+# Redes de Acesso e Núcleo
 
 ## Visão Geral do Tema
 
