@@ -1,4 +1,4 @@
-# 📁 Estrutura do Repositório
+# 📋 Gestão de Projetos de Tecnologias de Informação
 
 Este repositório reúne os artefactos e a documentação utilizados ao longo da gestão de um projecto de Tecnologias de Informação, com foco na organização e rastreabilidade das entregas formais e dos itens em progresso.
 
@@ -29,10 +29,10 @@ Esta separação facilita a rastreabilidade e evita a duplicação de versões, 
 
 ## 👥 Equipa do Projecto
 
-- **Catarina Pereira** — Braga, Portugal
-- **Inês Neves** — Porto, Portugal 
-- **Leonardo Martins** — Aveiro, Portugal
-- **Rodrigo Rocha** — Santander, Espanha
+- **Catarina Pereira** — PG53733, Braga, Portugal
+- **Inês Neves** — PG53864, Porto, Portugal 
+- **Leonardo Martins** — PG53996, Aveiro, Portugal
+- **Rodrigo Rocha** — E12165, Santander, Espanha
 
 ## 🏁 Nota Final do Projecto
 
