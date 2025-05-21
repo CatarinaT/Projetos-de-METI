@@ -1,27 +1,49 @@
-# Gestão e Virtualização de Redes (2023/2024)
+# 🧠 Gestão e Virtualização de Redes (2023/2024)
 
-Bem-vindo(a) ao repositório do projeto da Unidade Curricular **Gestão e Virtualização de Redes** realizado durante o ano letivo de 2023/2024.
+Este repositório documenta os trabalhos desenvolvidos no âmbito da unidade curricular **Gestão e Virtualização de Redes**, realizada durante o ano letivo de 2023/2024 no Mestrado em Engenharia de Tecnologias de Informação (METI).
 
-## Autores
-- Catarina Pereira
-- Inês Neves
-- Leonardo Martins
+## 👥 Autores
 
-## Notas
-- **Módulo de Gestão de Redes (TP1):** 15.3/20
-- **Módulo de Virtualização de Redes (TP2):** 14.4/20
+- **Catarina Pereira** — PG53733  
+- **Inês Neves** — PG53864
+- **Leonardo Martins** — PG53996
 
-## Descrição do Projeto
-Este repositório contém os trabalhos desenvolvidos para a Unidade Curricular **Gestão e Virtualização de Redes**, que foi dividida em dois módulos distintos: Gestão de Redes e Virtualização de Redes.
+> ℹ️ Substituir os "XXXXX" pelos respetivos números mecanográficos.
 
-### Módulos
-#### Módulo de Gestão de Redes (TP1)
-- **Descrição:** Foco nas práticas e teorias relacionadas à gestão eficiente de redes, incluindo monitoramento, configuração e manutenção.
-- **Conteúdos:** Ferramentas de gestão de redes, protocolos de gestão, estudos de caso e implementação prática.
-- **Enunciado:** [TP1](https://github.com/CatarinaT/METI/blob/main/1°ano/1°semestre/Gestão%20e%20Virtualização%20de%20Redes/GR-TP1-2023-2024.pdf)
-  
-#### Módulo de Virtualização de Redes (TP2)
-- **Descrição:** Abordagem das técnicas de virtualização aplicadas a redes, permitindo a criação de redes virtuais e a otimização de recursos físicos.
-- **Conteúdos:** Tecnologias de virtualização, software de virtualização de redes, exemplos práticos e implementações.
-- **Enunciado:** [TP2](https://github.com/CatarinaT/METI/blob/main/1°ano/1°semestre/Gestão%20e%20Virtualização%20de%20Redes/gvr_2324_tp2.pdf)
+## 📊 Avaliações
 
+| Módulo                               | Descrição                      | Nota     |
+|--------------------------------------|--------------------------------|----------|
+| **Gestão de Redes (TP1)**            | Monitorização, configuração e manutenção de redes. | 15,3 / 20 |
+| **Virtualização de Redes (TP2)**     | Técnicas de virtualização aplicadas a redes.        | 14,4 / 20 |
+
+## 🧾 Estrutura do Projeto
+
+A unidade curricular está dividida em dois módulos principais:
+
+### 🔧 Módulo de Gestão de Redes (TP1)
+
+- **Descrição:** Estudo das práticas e fundamentos da gestão de redes, com foco em monitorização, configuração e manutenção.
+- **Conteúdos:**  
+  - Ferramentas de gestão de redes  
+  - Protocolos de gestão  
+  - Estudos de caso  
+  - Implementações práticas
+- **📄 Enunciado:** [GR-TP1-2023-2024.pdf](https://github.com/CatarinaT/METI/blob/main/1°ano/1°semestre/Gestão%20e%20Virtualização%20de%20Redes/GR-TP1-2023-2024.pdf)
+
+---
+
+### 🌐 Módulo de Virtualização de Redes (TP2)
+
+- **Descrição:** Exploração de técnicas de virtualização para criar redes virtuais, otimizando recursos e infraestrutura.
+- **Conteúdos:**  
+  - Tecnologias de virtualização  
+  - Software de virtualização de redes  
+  - Exemplos e implementações práticas
+- **📄 Enunciado:** [GVR-TP2-2023-2024.pdf](https://github.com/CatarinaT/METI/blob/main/1°ano/1°semestre/Gestão%20e%20Virtualização%20de%20Redes/gvr_2324_tp2.pdf)
+
+---
+
+## 📬 Contato
+
+Para questões, sugestões ou contributos, sinta-se à vontade para entrar em contato com qualquer um dos autores ou abrir uma *issue* neste repositório.
