@@ -1,4 +1,4 @@
-# 🧠 Trabalho Individual — Inteligência Artificial para as Telecomunicações (2023/2024)
+# 🧠 Trabalho Individual
 
 **Projeto:** *Design and Optimization of Machine Learning Models*  
 **Autora:** Catarina Pereira — PG53733
