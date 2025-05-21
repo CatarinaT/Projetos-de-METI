@@ -1,6 +1,6 @@
 # 🛡️ Projeto
 
-Este repositório reúne os trabalhos desenvolvidos no âmbito da unidade curricular **Cibersegurança**, do Mestrado Integrado em Telecomunicações e Informática da Universidade do Minho.  
+Este repositório reúne os trabalhos desenvolvidos no âmbito da unidade curricular **Cibersegurança**.
 O foco da UC é capacitar os estudantes com conhecimentos técnicos e estratégicos para a **implementação eficaz da Segurança da Informação**, promovendo uma compreensão crítica do contexto atual do **Ciberespaço** e das ameaças associadas.
 
 ---
