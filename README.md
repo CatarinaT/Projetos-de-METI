@@ -70,4 +70,4 @@ Bem-vindX ao repositório oficial do meu **Mestrado em Engenharia de Telecomunic
 
 ---
 
-*Desenvolvido com 💻 e ☕ por [Teu Nome]*
+*Desenvolvido com 💻 e ☕ por Catarina CMS Pereira*
