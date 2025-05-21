@@ -29,10 +29,10 @@ Esta separação facilita a rastreabilidade e evita a duplicação de versões, 
 
 ## 👥 Equipa do Projecto
 
-- **Catarina Pereira** — Gestora Principal de Projecto, Braga, Portugal
-- **Inês Neves** — Analista Funcional, Porto, Portugal 
-- **Leonardo Martins** — Engenheiro de Software, Aveiro, Portugal
-- **Rodrigo Rocha** — Especialista em Testes, Santander, Espanha
+- **Catarina Pereira** — Braga, Portugal
+- **Inês Neves** — Porto, Portugal 
+- **Leonardo Martins** — Aveiro, Portugal
+- **Rodrigo Rocha** — Santander, Espanha
 
 ## 🏁 Nota Final do Projecto
 
