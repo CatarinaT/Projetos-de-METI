@@ -51,24 +51,6 @@ Bem-vindX ao repositório oficial do meu **Mestrado em Engenharia de Telecomunic
 
 ---
 
-
-
-## 🚀 Projetos em Destaque (com projeto)
-
-| Unidade Curricular                      | Repositório / Projeto                         | Nota Final (se aplicável)               |
-|---------------------------------------|-----------------------------------------------|----------------------------------------|
-| Emulação e Simulação de Redes          | [Ver Projeto](./1ºano/1ºsemestre/Emulação%20e%20Simulação%20de%20Redes%20de%20Telecomunicações)            | -                                      |
-| Gestão e Virtualização de Redes        | [Ver Projeto](./GestaoVirtualizacao)          | -                                      |
-| Inteligência Artificial                | [Ver Projeto](./InteligenciaArtificial)       | -                                      |
-| Projeto Integrador                     | [Ver Projeto](./ProjetoIntegrador)             | -                                      |
-| Redes de Acesso e Núcleo               | [Ver Projeto](./RedesAcessoNucleo)             | 11,4 / 20                              |
-| Serviços de Rede e Aplicações Multimédia | [Ver Projeto](./ServicosRedeMultimedia)       | TP1: 17,8 / 20 | TP2: 16,5 / 20          |
-| Cibersegurança                        | [Ver Projeto](./Ciberseguranca)                | -                                      |
-| Redes Veiculares                      | [Ver Projeto](./RedesVeiculares)               | -                                      |
-| Gestão de Projetos TI                 | [Ver Projeto](./GestaoProjetosTI)              | -                                      |
-
----
-
 ## 🔗 Links Úteis
 
 - 📂 [Repositório do (L/Mi)EI (Eng. Informática) - Google Drive](https://drive.google.com/drive/folders/1tBpWJmF0gvXJuGDTxpHNRdjJGYIjbHZZ)  
