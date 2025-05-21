@@ -8,8 +8,6 @@ Este repositório documenta os trabalhos desenvolvidos no âmbito da unidade cur
 - **Inês Neves** — PG53864
 - **Leonardo Martins** — PG53996
 
-> ℹ️ Substituir os "XXXXX" pelos respetivos números mecanográficos.
-
 ## 📊 Avaliações
 
 | Módulo                               | Descrição                      | Nota     |
