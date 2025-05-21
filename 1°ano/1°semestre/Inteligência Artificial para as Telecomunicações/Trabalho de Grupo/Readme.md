@@ -1,45 +1,76 @@
-# Trabalho de Grupo 
-Resolução de Problemas com Algoritmos de Busca
+# 🔍 Trabalho de Grupo — Inteligência Artificial para as Telecomunicações (2023/2024)
 
-## Descrição do Projeto
-Este projeto, desenvolvido no âmbito da disciplina de **Inteligência Artificial para as Telecomunicações** do Mestrado Integrado em Telecomunicações e Informática da Universidade do Minho, aborda a resolução de problemas através da concepção e implementação de algoritmos de busca. O tema central é a sustentabilidade, aplicado ao cenário da empresa de distribuição Xpress Delta, que visa utilizar os meios de entrega mais ecológicos disponíveis.
+**Projeto:** *Resolução de Problemas com Algoritmos de Busca*  
 
-## Objetivos
-- Sensibilizar e motivar os alunos para a resolução de problemas utilizando algoritmos de busca.
-- Desenvolver e implementar diversos algoritmos de busca que promovam a sustentabilidade na entrega de encomendas.
+Este projeto foca-se na aplicação de **algoritmos de busca** para resolução de problemas reais, com ênfase na **sustentabilidade logística**. O cenário proposto envolve a empresa **Xpress Delta**, que procura otimizar as suas entregas utilizando os meios mais ecológicos disponíveis.
 
-## Estrutura do Projeto
-1. **Cenário de Entrega**
-   - Criação de um cenário realista onde as entregas são realizadas (ex. uma cidade).
-   - Divisão do circuito de entrega:
-     - **Estado Inicial:** Centro de distribuição da Xpress Delta.
-     - **Pontos de Entrega:** Percurso entre pontos de entrega.
-     - **Estado Final:** Retorno ao centro de distribuição.
+---
 
-2. **Tarefas a Desenvolver**
-   - Formulação do problema como um problema de pesquisa.
-   - Geração de circuitos de entrega.
-   - Representação dos pontos de entrega em forma de grafo.
-   - Desenvolvimento e comparação de diferentes estratégias de busca (informada e não informada).
-   - Inclusão de novas funcionalidades ou características adicionais para o sistema.
+## 🎯 Objetivos
 
-3. **Considerações**
-   - Bicicletas podem transportar encomendas até 5 Kg, com uma velocidade média de 10km/h.
-   - Motos podem transportar encomendas até 20 Kg, com uma velocidade média de 35km/h.
+- Sensibilizar para o uso de algoritmos de busca na resolução de problemas.
+- Projetar e implementar algoritmos de busca aplicados à distribuição sustentável de encomendas.
+- Comparar estratégias informadas e não informadas.
+- Desenvolver um sistema flexível com funcionalidades adicionais.
 
-## Resultados Esperados
-O projeto culmina na elaboração de um relatório que deve conter:
-- Descrição e formulação do problema.
-- Descrição das tarefas realizadas e decisões tomadas.
-- Sumário e discussão dos resultados obtidos.
-- Exemplos e indicações que permitam reproduzir todos os passos e resultados.
+---
 
-## Bibliografia Recomendada
-- **Russell and Norvig (2009).** *Artificial Intelligence - A Modern Approach, 3rd edition.* ISBN-13: 9780136042594.
-- **Costa E., Simões A. (2008).** *Inteligência Artificial-Fundamentos e Aplicações.* FCA, ISBN: 978-972-722-34.
+## 🧱 Estrutura do Projeto
 
-## Grupo de Trabalho
-- Catarina Pereira
-- Inês Neves
-- Francisco Martins
-- Leonardo Martins
+### 🏙️ 1. Cenário de Entrega
+
+- Construção de um ambiente urbano onde decorrem as entregas.
+- **Estado Inicial:** Centro de distribuição da Xpress Delta.  
+- **Estados Intermédios:** Pontos de entrega ao longo do percurso.  
+- **Estado Final:** Regresso ao centro de distribuição.  
+
+### 🛠️ 2. Tarefas Desenvolvidas
+
+- Formulação do problema como um grafo de busca.
+- Geração automática de circuitos de entrega.
+- Representação dos pontos como nós interligados.
+- Implementação de múltiplos algoritmos de busca (ex: BFS, DFS, A*).
+- Adição de funcionalidades extra para enriquecer a simulação.
+
+### 🚴 3. Considerações de Sustentabilidade
+
+- **Bicicletas**  
+  - Peso máximo: 5 kg  
+  - Velocidade média: 10 km/h
+
+- **Motos**  
+  - Peso máximo: 20 kg  
+  - Velocidade média: 35 km/h
+
+---
+
+## 📈 Resultados Esperados
+
+O projeto é acompanhado de um **relatório técnico**, que deverá incluir:
+
+- Definição formal do problema.
+- Tarefas realizadas e justificativas das decisões tomadas.
+- Discussão crítica dos resultados obtidos.
+- Instruções e exemplos para replicação completa da solução.
+
+---
+
+## 📚 Bibliografia Recomendada
+
+- Russell, S., & Norvig, P. (2009). *Artificial Intelligence: A Modern Approach* (3rd ed.). ISBN: 978-0136042594  
+- Costa, E., & Simões, A. (2008). *Inteligência Artificial – Fundamentos e Aplicações*. FCA. ISBN: 978-972-722-34
+
+---
+
+## 👥 Grupo de Trabalho
+
+- **Catarina Pereira** — PG53733  
+- **Inês Neves** — PG53864  
+- **Francisco Martins** — A93079  
+- **Leonardo Martins** — PG53996
+
+---
+
+## 📬 Contato
+
+Para dúvidas, sugestões ou contributos, sinta-se à vontade para abrir uma *issue* neste repositório ou contactar qualquer membro do grupo.
