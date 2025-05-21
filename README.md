@@ -8,7 +8,7 @@ Este espaço é pensado para:
 - Facilitar a consulta dos trabalhos e projetos.  
 - Ser uma fonte de inspiração e apoio para colegas e futuros estudantes.  
 
-💬 Tens dúvidas, sugestões ou queres colaborar? Estou a um clique de distância! Vamos conversar.
+💬 Tens dúvidas, sugestões ou queres colaborar? Manda mensagem!
 
 ---
 
