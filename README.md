@@ -27,7 +27,7 @@ Este espaço é pensado para:
 - 📡 **Comunicações Digitais**  
 - 🖥️ **Emulação e Simulação de Redes de Telecomunicações** _(com projeto)_  
 - 🌐 **Gestão e Virtualização de Redes** _(com projeto)_  
-- 🎯 **Optativas (escolhe 2):**  
+- 🎯 **Opções (escolher 2):**  
   - 🤖 Aprendizagem Automática em Sistemas Empresariais  
   - 📱 Computação em Ambiente Móvel  
   - 🚦 Encaminhamento de Tráfego  
@@ -38,7 +38,7 @@ Este espaço é pensado para:
 - 🔗 **Projeto Integrador em Telecomunicações e Informática** _(com projeto)_  
 - 🛠️ **Redes de Acesso e Núcleo** _(com projeto)_  
 - 🎥 **Serviços de Rede e Aplicações Multimédia** _(com projeto)_  
-- ⚙️ **Optativas (escolhe 2):**  
+- ⚙️ **Opções (escolher 2):**  
   - 🔐 Cibersegurança _(escolhido, com projeto)_  
   - 📡 Eletrónica de Radiofrequência  
   - 💡 Ótica e Lasers  
