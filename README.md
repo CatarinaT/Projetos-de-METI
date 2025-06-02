@@ -1,7 +1,7 @@
 # 🎓 Mestrado em Engenharia de Telecomunicações e Informática  
 **Universidade do Minho**
 
-Seja muito bem-vindX ao meu repositório oficial do **Mestrado em Engenharia de Telecomunicações e Informática**! 🌟 Aqui encontrarás todo o meu percurso académico, com projetos, trabalhos práticos e recursos organizados por unidade curricular e semestre.
+Seja muito bem-vindX ao meu repositório do **Mestrado em Engenharia de Telecomunicações e Informática**! 🌟 Aqui encontrarás todo o meu percurso académico, com projetos e trabalhos práticos organizados por unidade curricular e semestre.
 
 Este espaço é pensado para:  
 - Documentar o meu crescimento académico.  
